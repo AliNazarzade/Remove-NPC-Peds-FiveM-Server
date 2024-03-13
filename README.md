@@ -9,7 +9,7 @@
 #### Using GIT
 
 ```sh
-cd resources/
+cd resources/[local]
 git clone https://github.com/AliNazarzade/Remove-NPC-Peds-FiveM-Server.git
 ```
 
