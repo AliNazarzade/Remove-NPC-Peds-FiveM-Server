@@ -3,7 +3,7 @@
 ## Description
 - Hi, this is one of my FiveM scripts it removes AI NPC & Pads.
 - The script increases the "FPS".
-- 
+  
 ### Download & Instalation
 
 #### Using GIT
