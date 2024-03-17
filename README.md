@@ -18,7 +18,7 @@ git clone https://github.com/AliNazarzade/Remove-NPC-Peds-FiveM-Server.git
 - Download <https://github.com/AliNazarzade/Remove-NPC-Peds-FiveM-Server/archive/refs/heads/FiveM.zip>.
 - Extract Zip File.
 - Put it in the `[local]` repository.
-- - Add `ensure Remove-NPC` To Your `server.cfg`.
+- Add `ensure Remove-NPC` To Your `server.cfg`.
 
 
 ##### License
